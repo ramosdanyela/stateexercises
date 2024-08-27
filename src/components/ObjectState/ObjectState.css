@@ -1,0 +1,17 @@
+.cadastroContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 25px;
+  padding: 10px;
+}
+
+.title {
+  margin-left: 25px;
+}
+
+button {
+  padding: 15px;
+  margin-bottom: 15px;
+  font-size: 20px;
+}
